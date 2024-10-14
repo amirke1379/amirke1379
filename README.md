@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **AI 2, Embedded System, Generative AI and LLMs, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [amirkeshtkar.com](amirkeshtkar.com)
-
 - 💬 Ask me about **Java, Networking, Deployment, Backend and Frontend Developments**
 
 - 📫 How to reach me **keshtkaramirhossein@gmail.com**
