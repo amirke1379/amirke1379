@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirke1379&label=Profile%20views&color=0e75b6&style=flat" alt="amirke1379" /> </p>
 
 
-- 🔭 I’m currently working on **Final year project**
+- 🔭 I’m currently working on **Automated Assignments And Assessments**
 
-- 🌱 I’m currently learning **AI 2, Embedded System, Generative AI and LLMs, Cloud Computing**
+- 🌱 I’m currently learning **NestJS, Generative AI and LLMs**
 
 - 💬 Ask me about **Java, Networking, Deployment, Backend and Frontend Developments**
 
-- 📫 How to reach me **keshtkaramirhossein@gmail.com**
+- 📫 How to reach me **akeshtk@uwo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
