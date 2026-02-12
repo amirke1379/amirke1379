@@ -63,13 +63,5 @@ Deep learning classification using NASNetMobile & InceptionV3
 ### 📈 GitHub Stats
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirke1379&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirke1379&show_icons=true&locale=en" />
-</p>
-
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirke1379&" />
 </p>
